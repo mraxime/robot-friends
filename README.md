@@ -1,4 +1,4 @@
-# RoboFriends
+# RobotFriends
 
 RoboFriends est une application React qui vous permet de faire des recherches par nom entre différents robots générés par l'API. Elle est entièrement réactive et fonctionnelle dans différentes tailles d'écran.
 
